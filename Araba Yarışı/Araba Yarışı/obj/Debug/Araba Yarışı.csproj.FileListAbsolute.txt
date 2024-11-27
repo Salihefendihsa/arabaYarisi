@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\Administrator\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
